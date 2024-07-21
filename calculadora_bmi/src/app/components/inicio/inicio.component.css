@@ -1,0 +1,37 @@
+.fondoItem {
+    background-color: #ff111328;
+    height: 130px;
+    border-radius: 20px;
+    color: white;
+}
+
+.sexo {
+    font-size: 50px;
+}
+
+.estiloNumero {
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: -30px;
+}
+
+.cm {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form-range {
+    padding: 0px, 20px;
+}
+
+.sumaResta {
+    cursor: pointer;
+    background-color: #ff4c4f;
+    padding: 7px;
+    border-radius: 15px;
+    margin-left: 5px;
+}
+
+.sexoDesactivo {
+    background-color: #7D2F2F33;
+}
